@@ -1,3 +1,3 @@
 # Drone-preview
-- Model of drone done in Blender with animation
+- Model of drone with animation done in Blender
 - Preview in browser with orbital controls using ThreeJS library
