@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: #303030;
+  }
+  
+  #container3D canvas {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
